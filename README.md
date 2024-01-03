@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=180&section=header&text=uihyunKimm%20&fontSize=40&desc=resume)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=uihyunKimm)](https://github.com/uihyunKimm)
 
@@ -34,7 +34,8 @@
 ```
 print("안녕?")
 ```
-
+-[x]체크박스1
+-[ ]2
 
 :smirk:
 😂
