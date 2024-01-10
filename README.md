@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=1111&height=180&section=header&text=uihyunKimm%20&fontSize=40&desc=resume)
+![header](https://capsule-render.vercel.app/api?type=soft&color=dfdfdf&height=180&section=header&&text=uihyunKimm%20&fontSize=40&desc=developer)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=uihyunKimm)](https://github.com/uihyunKimm)
 
