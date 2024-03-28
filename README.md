@@ -8,6 +8,7 @@
 ![react](https://img.shields.io/badge/-react-16181D?logo=react&logoColor=61DAFB)
 ![node.js](https://img.shields.io/badge/-node.js-16181D?logo=node.js&logoColor=519942)
 ![Mysql](https://img.shields.io/badge/-Mysql-16181D?logo=Mysql&logoColor=036286)
+![MongoDB](https://img.shields.io/badge/-mongoDB-16181D?logo=mongodb&logoColor=409432)
 
 # Hi there 👋
 ## Hi there 👋
