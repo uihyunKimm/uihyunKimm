@@ -2,7 +2,7 @@
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=uihyunKimm)](https://github.com/uihyunKimm)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uihyunKimm&layout=compact)](https://github.com/uihyunKimm/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![JS]((https://img.shields.io/badge/-JS-javascript-blue?logo=javascript))
+![JS]((https://img.shields.io/badge/logo-javascript-blue?logo=javascript))
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
