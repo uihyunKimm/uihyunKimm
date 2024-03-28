@@ -4,12 +4,10 @@
 ![HTML](https://img.shields.io/badge/-html5-16181D?logo=html5&logoColor=F75420)
 ![CSS](https://img.shields.io/badge/-css3-16181D?logo=css3&logoColor=2A5EF3)
 ![SCSS](https://img.shields.io/badge/-sass-16181D?logo=sass&logoColor=C76495)
-![JS](https://img.shields.io/badge/-javascript-grey?logo=javascript&logoColor=yellow)
+![JS](https://img.shields.io/badge/-javascript-16181D?logo=javascript&logoColor=yellow)
 ![react](https://img.shields.io/badge/-react-16181D?logo=react&logoColor=61DAFB)
-![Spring](https://img.shields.io/badge/-react-6DB33F?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+![node.js](https://img.shields.io/badge/-node.js-16181D?logo=node.js&logoColor=519942)
+![Mysql](https://img.shields.io/badge/-Mysql-16181D?logo=Mysql&logoColor=036286)
 
 # Hi there 👋
 ## Hi there 👋
