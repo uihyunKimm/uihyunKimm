@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=dfdfdf&height=180&section=header&&text=uihyunKimm%20&fontSize=40&desc=developer)
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=uihyunKimm)](https://github.com/uihyunKimm)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uihyunKimm&layout=compact)](https://github.com/uihyunKimm/github-readme-stats)
 
-![A](https://img.shields.io/badge/SCSS-darkred)
+![HTML](https://img.shields.io/badge/-html5-16181D?logo=html5&logoColor=F75420)
+![CSS](https://img.shields.io/badge/-css3-16181D?logo=css3&logoColor=2A5EF3)
 ![JS](https://img.shields.io/badge/-javascript-grey?logo=javascript&logoColor=yellow)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![react](https://img.shields.io/badge/-react-16181D?logo=react&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/-react-6DB33F?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
