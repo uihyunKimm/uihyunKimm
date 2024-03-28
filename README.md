@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=dfdfdf&height=180&section=header&&text=uihyunKimm%20&fontSize=40&desc=developer)
-
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=uihyunKimm)](https://github.com/uihyunKimm)
-
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=uihyunKimm&show_icons=true&theme=radical)](https://github.com/uihyunKimm)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uihyunKimm&layout=compact)](https://github.com/uihyunKimm/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=uihyunKimm)](https://github.com/uihyunKimm)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uihyunKimm&layout=compact)](https://github.com/uihyunKimm/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
@@ -54,4 +48,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=uihyunKimm&show_icons=true&theme=radical)](https://github.com/uihyunKimm)
 -->
